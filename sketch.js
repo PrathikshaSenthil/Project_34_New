@@ -28,7 +28,7 @@ function preload() {
   kingSpritedata = loadJSON("assets/king/pig.json");
   kingSpritesheet = loadImage("assets/king/pig.png");
   CrykingSpritedata = loadJSON("assets/king/Kingcry.json");
-  CrykingSpritesheet = loadImage("assets/king/kingg.png");
+  CrykingSpritesheet = loadImage("assets/king/Kingg.png");
 
 }
 
